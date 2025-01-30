@@ -111,5 +111,5 @@ try {
 }
 };
 
-// Call the function
+
 seedDatabase();
